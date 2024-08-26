@@ -1,5 +1,7 @@
 ## Git
 
+conda info --envs --> to know virtual environments
+
 ``` bash
 
 git init
